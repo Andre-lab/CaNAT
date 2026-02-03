@@ -1,0 +1,23 @@
+# Data
+database_sequences/
+database_structure/
+*.h5
+*.csv
+*.tsv
+*.fasta
+
+# Results
+analyses/
+figures/
+png/
+
+#bin
+network/scripts/MPNN/
+network/scripts/CaNAT/parameters_CaNAT_Ecoli.pt
+network/scripts/CaNAT/parameters_CaNAT_0.pt
+# settings
+.DS_Store
+__pycache__/
+
+# Logs
+*.log

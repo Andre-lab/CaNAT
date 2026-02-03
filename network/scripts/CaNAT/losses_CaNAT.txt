@@ -1,0 +1,13 @@
+Synthetic Loss Before: 4.4103
+Synthetic Loss After: 1.3720
+Epoch 000; Training Loss: 1.1864; Validation Loss: 1.0554
+Epoch 001; Training Loss: 1.1636; Validation Loss: 1.0430
+Epoch 002; Training Loss: 1.1583; Validation Loss: 1.0554
+Epoch 003; Training Loss: 1.1551; Validation Loss: 1.0608
+Epoch 004; Training Loss: 1.1527; Validation Loss: 1.0576
+Epoch 005; Training Loss: 1.1506; Validation Loss: 1.0582
+Epoch 006; Training Loss: 1.1489; Validation Loss: 1.0459
+Epoch 007; Training Loss: 1.1473; Validation Loss: 1.0407
+Epoch 008; Training Loss: 1.1459; Validation Loss: 1.0493
+Epoch 009; Training Loss: 1.1447; Validation Loss: 1.0477
+Epoch 010; Training Loss: 1.1435; Validation Loss: 1.0352
