@@ -2,7 +2,7 @@
 CaNAT : Codon from Amino Acid with a Non-Autoregressive Transformer
 
 Predicts codons and associated confidence score from amino acid sequences.
-
+![graphical abstract](GA.png)
 
 ## Installation
 ```bash
