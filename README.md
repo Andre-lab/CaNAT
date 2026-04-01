@@ -1,5 +1,5 @@
-# CaNAT
-CaNAT : Codon from Amino Acid with a Non-Autoregressive Transformer
+# CaNAT: Decoding synonymous codon selection with a transformer model
+Codon from Amino Acid with a Non-Autoregressive Transformer
 
 Predicts codons and associated confidence score from amino acid sequences.
 ![graphical abstract](GA.png)
